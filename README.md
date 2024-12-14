@@ -3,7 +3,7 @@
 ## Title: Market Movements and Election Day: Analyzing Stock Price Volatility in the U.S. Presidential Election Days
 ## Authors: Bidita and Pure
 
-## [Link to Dataset](https://colab.research.google.com/drive/1OXswCV-9xePKnib8qQQutd4Qlz_taD8k?usp=sharing )
+## [Link to my code](https://colab.research.google.com/drive/1OXswCV-9xePKnib8qQQutd4Qlz_taD8k?usp=sharing )
 
 ## Introduction:
 This project examines stock price volatility for the S&P 500, Dow Jones Industrial Average (DJI), and Nasdaq Composite during U.S. presidential elections, focusing specifically on the changes in closing prices from October to November of each election year. Using historical data from Yahoo Finance and election dates, we analyze stock market behavior during these pivotal moments. Instead of paying $20 to access and download the data, we copied and pasted the data directly into Excel and downloaded it into a CSV file. Fortunately, there were no missing cells and the data was complete. However, there were some minor issues when we tried to clean the data and convert the data to the datetime format. It filtered out some parts of the data and probably got confused with the other relevant column, e.g., volume. Later on, we figured out a way to fix it using column selections by choosing only the Date and Close columns instead, we then had the clean data in the right format for the visualizations.
