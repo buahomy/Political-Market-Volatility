@@ -1,7 +1,7 @@
 # Political-Market-Volatility
 
 ## Title: Market Movements and Election Day: Analyzing Stock Price Volatility in the U.S. Presidential Election Days
-## Authors: Bidita and Pure
+## Authors: Pure and Bidita
 
 ## [Link to my code](https://colab.research.google.com/drive/1OXswCV-9xePKnib8qQQutd4Qlz_taD8k?usp=sharing )
 
